@@ -1,3 +1,3 @@
 # Countdown-Timer
 
-it is used simply to count timer
+it is simply used to count the timer
